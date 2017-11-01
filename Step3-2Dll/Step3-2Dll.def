@@ -1,0 +1,3 @@
+LIBRARY "Step3-2Dll"
+EXPORTS
+	UseOpenCV	@1
